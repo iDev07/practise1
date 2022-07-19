@@ -79,8 +79,8 @@ function Main() {
                 <div className="left"></div>
                 <div className="right">
                   <p>
-                    My name is Ian Dunkerley, I'm a front-end developer based in
-                    Torquay, Devon, UK. I have developed many types of
+                    My name is Diyor, I'm a Frontend Developer based in
+                    Tashkent, Uzbekistan. I have developed many types of
                     front-ends from well know DJ applications to Ecommerce
                     booking platforms.
                   </p>
@@ -90,6 +90,25 @@ function Main() {
                   </p>
                 </div>
               </div>
+            </div>
+          </div>
+          <div className="projects">
+            <div className="wrapper">
+              <h1>Projects</h1>
+              <ul>
+                <li>
+                  <a href="https://softplus.uz">Soft Plus</a>
+                </li>
+                <li>
+                  <a href="https://worldmiral.com">World Miral</a>
+                </li>
+                <li>
+                  <a href="https://uzlang.navoiy-uni.uz">Teach language</a>
+                </li>
+                <li>
+                  <a href="https://buildgmegaservice.com">Build Mega Service</a>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
