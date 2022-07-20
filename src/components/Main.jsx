@@ -81,7 +81,7 @@ function Main() {
                   <p>
                     My name is Diyor, I'm a Frontend Developer based in
                     Tashkent, Uzbekistan. I have developed many types of
-                    front-ends from well know DJ applications to Ecommerce
+                    front-ends from well know corporative websites to Ecommerce
                     booking platforms.
                   </p>
                   <p>

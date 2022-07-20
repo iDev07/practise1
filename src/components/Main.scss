@@ -84,9 +84,7 @@ body {
         &::after {
           content: "";
           display: block;
-          position: fixed;
-          // width: 20px;
-          // height: 100%;
+          position: absolute;
           background: #a3805f;
           border-left: 10px solid #1d1d20;
           border-top: 10px solid #1d1d20;
