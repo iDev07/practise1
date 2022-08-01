@@ -106,7 +106,7 @@ function Main() {
                   <a href="https://uzlang.navoiy-uni.uz">Teach language</a>
                 </li>
                 <li>
-                  <a href="https://buildgmegaservice.com">Build Mega Service</a>
+                  <a href="https://buildmegaservice.com">Build Mega Service</a>
                 </li>
               </ul>
             </div>
